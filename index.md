@@ -64,7 +64,7 @@ title: Louis You｜AIoT × Embedded × AI
 
 ## 🧱 系統整合架構（System Architecture）
 
-```text
+
 感測器 / 致動器
         ↓
 Raspberry Pi / Arduino

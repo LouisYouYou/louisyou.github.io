@@ -73,7 +73,6 @@ Flask / MQTT / Database
 ↓
 AI / ML / RAG / LLM
 
-
 ---
 
 ## 🎯 我能為團隊帶來什麼

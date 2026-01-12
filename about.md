@@ -16,4 +16,4 @@ permalink: /about/
 
 ## Contact
 - GitHub：<https://github.com/louisyouyou>
-- Email：mailto:louis.icanhelp@gmail.com
+- Email：<mailto:louis.icanhelp@gmail.com>

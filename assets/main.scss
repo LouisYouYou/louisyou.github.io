@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 
-/* Remove Cayman footer */
-.page-footer {
+/* Cayman footer removal (exact classes used by Cayman) */
+.site-footer,
+.site-footer-owner,
+.site-footer-credits {
   display: none !important;
 }

@@ -7,5 +7,4 @@ header_pages:
   - projects.md
   - about.md
 
-minima:
-  skin: classic
+

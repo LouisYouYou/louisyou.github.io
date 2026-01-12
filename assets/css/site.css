@@ -96,6 +96,9 @@
   font-weight: 800;
   margin-bottom: 6px;
 }
+.page-footer {
+  display: none !important;
+}
 .callout-body{ color: var(--muted); }
 
 @media (max-width: 720px){
@@ -103,7 +106,5 @@
   .grid.two{ grid-template-columns: 1fr; }
 }
 /* ===== Remove Cayman footer ===== */
-.page-footer {
-  display: none !important;
-}
+
 
